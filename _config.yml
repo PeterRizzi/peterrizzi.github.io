@@ -1,7 +1,5 @@
 theme: jekyll-theme-minimal
-markdown: kramdown
 logo: imgs/peter.jpeg
 title: Peter Rizzi
-description: Engineer and Storyteller
-plugins: 
-  - jekyll-seo-tag
+description: Musings from an Engineer, Storyteller and Lifelong Learner
+
