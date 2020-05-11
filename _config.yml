@@ -1,8 +1,7 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
-name: Peter Rizzi, Engineer and Storyteller
 logo: imgs/peter.jpeg
-title: Peter Rizzi, Engineer and Storyteller
-description: yooo it's peter
+title: Peter Rizzi
+description: Engineer and Storyteller
 plugins: 
   - jekyll-seo-tag
