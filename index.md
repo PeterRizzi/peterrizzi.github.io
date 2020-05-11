@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[CV](./cv.html) &emsp; &emsp; [Blog](./blog.html) &emsp; &emsp; [Links](./links.html)
+[CV](./cv.html) &emsp; &emsp; &emsp; &emsp; [Blog](./blog.html) &emsp; &emsp; &emsp; &emsp; [Links](./links.html)
 
 # Hi there!
 
