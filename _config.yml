@@ -4,3 +4,5 @@ name: Peter Rizzi, Engineer and Storyteller
 logo: imgs/peter.jpeg
 title: Peter Rizzi
 description: yooo it's peter
+plugins: 
+  - jekyll-seo-tag
