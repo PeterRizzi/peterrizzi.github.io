@@ -2,7 +2,7 @@
 title: CV
 ---
 
-[Home](./index.html) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [CV](./cv.html) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [Blog](./blog.html) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [Links](./links.html)
+{% include nav.md %}
 
 ## Bachelor's Degree in Computer Science, Rice University, May 2020
 
