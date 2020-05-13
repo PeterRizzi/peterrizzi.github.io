@@ -1,5 +1,3 @@
-{% include nav.md %}
-
 ## Find me online 
 [![Linkedin](imgs/linkedin.png)](https://www.linkedin.com/in/peter-rizzi) &nbsp; [![GitHub](imgs/github-logo.png)](https://www.github.com/PeterRizzi)
 
