@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 ## Bachelor's Degree in Computer Science, Rice University, May 2020
 
 * GPA: 3.8
