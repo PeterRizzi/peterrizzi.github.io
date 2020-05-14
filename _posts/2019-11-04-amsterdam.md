@@ -20,11 +20,11 @@ You can exit the train station by taking an escalator down and going out either 
 
 The first thing Zev and I were asked after leaving the station was "where's the nearest cafe?" by another tourist. Little did we know he did not mean a typical coffeeshop, but a weed cafe. As we made our way to the city centre, despite it being a rainy dreary day, it was clear that Amsterdam was beautiful. We walked around a bit marveling at both the beautiful architecture and canels, and the ridiculous number of tourists. As you walk around central Amsterdam, there is a clear touristy vibe with loads of chain department stores, quick bite food places and souvenir shops. However, it doesn't take away from the sheer gorgeousness of the streets, buildings and canals.
 
-<img class="alignnone size-full wp-image-170" src="/assets/img/bikes.jpeg" alt="90B61534-F8D5-492B-A310-B79BF5DB6615_1_105_c.jpeg" width="1024" height="768" />
+<img class="alignnone size-full wp-image-170" src="/assets/img/bikes.jpeg" alt="90B61534-F8D5-492B-A310-B79BF5DB6615_1_105_c.jpeg" width="1024" height="380" />
 
 (Bikes, bikes and more bikes! - My own photo)
 
-<img class="alignnone size-full wp-image-172" src="/assets/img/canal.jpeg" width="1024" height="768" /><img class="alignnone size-full wp-image-171" src="/assets/img/canal2.jpeg" alt="CFEB39B6-FBF5-449C-8760-6E6EEB1FE757_1_105_c.jpeg" width="1024" height="768" />
+<img class="alignnone size-full wp-image-172" src="/assets/img/canal.jpeg" width="1024" height="380" /><img class="alignnone size-full wp-image-171" src="/assets/img/canal2.jpeg" alt="CFEB39B6-FBF5-449C-8760-6E6EEB1FE757_1_105_c.jpeg" width="1024" height="380" />
 
 (My own photos)
 
@@ -32,7 +32,7 @@ We decided to find a chocolate shop. With the humblest intentions, we ended up t
 
 When we finally found our chocolate shop, called Ganache, we found ourselves in a beautiful stone circular plaza. The shop was located in a beautiful building in the center of the circle, one of the oldest churches in Amsterdam.
 
-<img class="alignnone size-full wp-image-169" src="/assets/img/circle.jpeg" alt="A4964158-7B35-4D63-8A2D-B6178C0F3BEF_1_105_c.jpeg" width="1024" height="768" />
+<img class="alignnone size-full wp-image-169" src="/assets/img/circle.jpeg" alt="A4964158-7B35-4D63-8A2D-B6178C0F3BEF_1_105_c.jpeg" width="1024" height="380" />
 
 (My own photo)
 
@@ -40,8 +40,8 @@ The shopkeeper told us that sand circles you see surrounding the church used to 
 
 Zev and I then went to the Rembrandt House. On our way there, we joked about not knowing whether Rembrandt was a painter or a style of painting, but by the end of our trip to Amsterdam, we had gained a great sense of the significance of Rembrandt's work throughout Holland and the world. Aside from seeing how the 17th century painter lived and worked in his original home, there were a number of other cool tidbits that made the visit worthwhile. I learned that people in this age slept sitting up for fear of blood rushing to their head while lying down, and this was exemplified by the small box beds throughout the Rembrandt House. We also saw a paint-making demonstration that helped put into context how challenging and expensive painting was back then, and how making precious paints is still challenging today. It was also interesting to learn about how modern researchers use technology to distinguish Rembrandt portraits and gain more insights into how he worked.
 
-<img class="alignnone size-full wp-image-175" src="/assets/img/painting.jpeg" width="665" height="1182" />
+<img class="alignnone size-full wp-image-175" src="/assets/img/painting.jpeg" width="665" height="380" />
 
 Afterwards, we met up with the other guys. We ate a great Chinese dinner at Oriental City, and then walked around the Red Light District before heading back to the hotel.
 
-<img class="alignnone size-full wp-image-176" src="/assets/img/boys.jpeg" width="4032" height="3024" />
+<img class="alignnone size-full wp-image-176" src="/assets/img/boys.jpeg" width="4032" height="380" />
