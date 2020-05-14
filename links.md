@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Links
 ---
 
 ## Find me online 
