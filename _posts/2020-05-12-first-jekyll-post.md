@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My First Blog Post in Jekyll"
 date: 2020-05-12
 ---
