@@ -9,4 +9,5 @@ Next steps:
 - Add more blog posts
 - Cosmetic changes
 - Refactor/remove unnecessary code
+- Search engine optimization -- jekyll's seo tag?
 
