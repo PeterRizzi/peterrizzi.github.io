@@ -20,7 +20,7 @@ You can exit the train station by taking an escalator down and going out either 
 
 The first thing Zev and I were asked after leaving the station was "where's the nearest cafe?" by another tourist. Little did we know he did not mean a typical coffeeshop, but a weed cafe. As we made our way to the city centre, despite it being a rainy dreary day, it was clear that Amsterdam was beautiful. We walked around a bit marveling at both the beautiful architecture and canels, and the ridiculous number of tourists. As you walk around central Amsterdam, there is a clear touristy vibe with loads of chain department stores, quick bite food places and souvenir shops. However, it doesn't take away from the sheer gorgeousness of the streets, buildings and canals.
 
-<img class="alignnone size-full wp-image-170" src="https://thedailyegalitarian.files.wordpress.com/2019/11/90b61534-f8d5-492b-a310-b79bf5db6615_1_105_c.jpeg" alt="90B61534-F8D5-492B-A310-B79BF5DB6615_1_105_c.jpeg" width="1024" height="768" />
+<img class="alignnone size-full wp-image-170" src="/assets/img/bikes.jpeg" alt="90B61534-F8D5-492B-A310-B79BF5DB6615_1_105_c.jpeg" width="1024" height="768" />
 
 (Bikes, bikes and more bikes! - My own photo)
 
