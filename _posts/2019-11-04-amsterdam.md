@@ -1,3 +1,9 @@
+---
+layout: post
+title: "A day in Amsterdam"
+date: 2019-11-04
+---
+
 I just got back from a phenomenal trip to Amsterdam, and I wanted to spend some time writing about it. We got there early Friday morning, and Zev and I made our way into the city from the Ramada Schipol Airport where we were staying -- the other guys had some work to do.
 
 It was rainy when we got off the train, but the first thing you see in Amsterdam Centraal is water to your left. I'm not sure what this body of water is called, but it separates Amsterdam from Amsterdam North (Amsterdam-Noord), a place that is supposedly very cool but that we didn't have the chance to visit. The station itself has an interesting, modern design. By the tracks, it is open-air, covered by a large half-cylindrical structure that looks like a sheet of metal from a distance and from below.
