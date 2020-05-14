@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Find me online 
 [![Linkedin](assets/img/linkedin.png)](https://www.linkedin.com/in/peter-rizzi) &nbsp; [![GitHub](assets/img/github-logo.png)](https://www.github.com/PeterRizzi)
 
