@@ -8,4 +8,5 @@ Next steps:
 - Add more content
 - Add more blog posts
 - Cosmetic changes
+- Refactor/remove unnecessary code
 
