@@ -18,19 +18,17 @@ You can exit the train station by taking an escalator down and going out either 
 
 (Taken from Wikipedia -- By Slaunger - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=55831087)
 
-The first thing Zev and I were asked after leaving the station was "where's the nearest cafe?" by another tourist. Little did we know he did not mean a typical coffeeshop, but a weed cafe. As we made our way to the city centre, despite it being a rainy dreary day, it was clear that Amsterdam was beautiful. We walked around a bit marveling at both the beautiful architecture and canels, and the ridiculous number of tourists. As you walk around central Amsterdam, there is a clear touristy vibe with loads of chain department stores, quick bite food places and souvenir shops. However, it doesn't take away from the sheer gorgeousness of the streets, buildings and canals.
+After leaving the station, we made our way to the city centre, and despite it being a rainy dreary day, it was clear that Amsterdam was beautiful. We walked around a bit marveling at both the beautiful architecture and canels, and the ridiculous number of tourists. As you walk around central Amsterdam, there is a clear touristy vibe with loads of chain department stores, quick bite food places and souvenir shops. However, it doesn't take away from the sheer gorgeousness of the streets, buildings and canals.
 
 <img class="alignnone size-full wp-image-170" src="/assets/img/bikes.jpeg" alt="90B61534-F8D5-492B-A310-B79BF5DB6615_1_105_c.jpeg" width="1024" height="380" />
 
 (Bikes, bikes and more bikes! - My own photo)
 
-<img class="alignnone size-full wp-image-172" src="/assets/img/canal.jpeg" width="1024" height="380" /><img class="alignnone size-full wp-image-171" src="/assets/img/canal2.jpeg" alt="CFEB39B6-FBF5-449C-8760-6E6EEB1FE757_1_105_c.jpeg" width="1024" height="380" />
+<img class="alignnone size-full wp-image-171" src="/assets/img/canal2.jpeg" alt="CFEB39B6-FBF5-449C-8760-6E6EEB1FE757_1_105_c.jpeg" width="1024" height="380" />
 
 (My own photos)
 
-We decided to find a chocolate shop. With the humblest intentions, we ended up turning down an alley where on our left and right were glass windows surrounded by neon red lights with near-naked women smiling and gesturing at us to come visit. At 3 PM!!
-
-When we finally found our chocolate shop, called Ganache, we found ourselves in a beautiful stone circular plaza. The shop was located in a beautiful building in the center of the circle, one of the oldest churches in Amsterdam.
+When went out in search for a coffee shop, called Ganache, we found ourselves in a beautiful stone circular plaza. The shop was located in a beautiful building in the center of the circle, one of the oldest churches in Amsterdam.
 
 <img class="alignnone size-full wp-image-169" src="/assets/img/circle.jpeg" alt="A4964158-7B35-4D63-8A2D-B6178C0F3BEF_1_105_c.jpeg" width="1024" height="380" />
 
@@ -42,6 +40,4 @@ Zev and I then went to the Rembrandt House. On our way there, we joked about not
 
 <img class="alignnone size-full wp-image-175" src="/assets/img/painting.jpeg" width="665" height="380" />
 
-Afterwards, we met up with the other guys. We ate a great Chinese dinner at Oriental City, and then walked around the Red Light District before heading back to the hotel.
-
-<img class="alignnone size-full wp-image-176" src="/assets/img/boys.jpeg" width="4032" height="380" />
+Afterwards, we met up with the other guys. We ate a great dinner at Oriental City restaurant, and then walked around before heading back to the hotel.
