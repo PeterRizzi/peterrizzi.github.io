@@ -26,7 +26,7 @@ After leaving the station, we made our way to the city centre, and despite it be
 
 <img class="alignnone size-full wp-image-171" src="/assets/img/canal2.jpeg" alt="CFEB39B6-FBF5-449C-8760-6E6EEB1FE757_1_105_c.jpeg" width="1024" height="380" />
 
-(My own photos)
+(My own photo)
 
 When went out in search for a coffee shop, called Ganache, we found ourselves in a beautiful stone circular plaza. The shop was located in a beautiful building in the center of the circle, one of the oldest churches in Amsterdam.
 
