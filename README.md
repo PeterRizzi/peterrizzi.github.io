@@ -11,4 +11,5 @@ Next steps:
 - Refactor/remove unnecessary code
 - Search engine optimization -- jekyll's seo tag?
 - www domain doesn't work? (i.e., www.petermrizzi.com)
+- a "what i'm reading" page
 
